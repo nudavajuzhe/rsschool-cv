@@ -33,7 +33,8 @@ a {
 
   .menu-head {
       display: flex;
-      
+      justify-content: center;
+
       
   }
 
